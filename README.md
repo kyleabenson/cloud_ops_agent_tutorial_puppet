@@ -1,0 +1,1 @@
+# cloud_ops_agent_tutorial_puppet
